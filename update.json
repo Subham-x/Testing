@@ -2,7 +2,7 @@
   "latest": {
     "latest_version": "1.27",
     "short_msg": "New version 1.27 released!",
-    "md_file": "latest_release.md"
+    "md_file": "updates/latest.md"
   },
 
   "critical": {
