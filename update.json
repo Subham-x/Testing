@@ -6,7 +6,7 @@
   },
 
   "critical": {
-    "below": "3.26030880",
+    "below": "1.26030880",
     "short_msg": "Your app version is too old. Please update to continue.",
     "md_file": "critical_update.md"
   },
