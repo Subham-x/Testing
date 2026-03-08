@@ -6,13 +6,13 @@
   },
 
   "critical": {
-    "below": "1.21",
+    "below": "2.26030880",
     "short_msg": "Your app version is too old. Please update to continue.",
     "md_file": "critical_update.md"
   },
 
   "warning": {
-    "below": "1.24",
+    "below": "2.26030881",
     "short_msg": "A new update is available. Update for better performance.",
     "md_file": "warning_update.md"
   }
